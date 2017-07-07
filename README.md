@@ -100,3 +100,8 @@ end
 Save it
 
 ``funcsave md``
+
+### Interesting extensions
+
+* [Color LS](https://github.com/athityakumar/colorls) - A Ruby script that colorizes the ls output with color and icons
+* [tig](https://jonas.github.io/tig) - text-mode interface for git
