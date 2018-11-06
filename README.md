@@ -16,13 +16,21 @@ Change default shell for current user
 
 ### Change terminal theme
 
-Clone [https://github.com/benmarten/Monokai_Fish_OSX]() and execute instructions.
+Terminal users: Clone [https://github.com/benmarten/Monokai_Fish_OSX]() and execute instructions.
+
+iTerm2 users: https://github.com/mbadolato/iTerm2-Color-Schemes
 
 ### Enable ALT key
+
+Terminal users:
 
 Terminal -> Preferences -> Keyboard -> Use Option as Meta Key needs to be enabled.
 
 This makes ALT-BACKSPACE work.
+
+iTerm2 users:
+
+Preferences -> Profiles. Select your profile on the left, and then open the Keyboard tab. At the bottom is a set of buttons that lets you select the behavior of the Option key. For most users, Esc+ will be the best choice.
 
 ### Change prompt
 
